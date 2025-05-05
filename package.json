@@ -1,0 +1,15 @@
+{
+  "name": "nueva-carpeta",
+  "version": "1.0.0",
+  "description": "Probando Autonumeric",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Esteban Galeano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
